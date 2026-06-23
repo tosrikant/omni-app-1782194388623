@@ -1,0 +1,15 @@
+{
+  "name": "omni-native-export",
+  "version": "1.0.0",
+  "scripts": {
+    "sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "latest",
+    "@capacitor/android": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}
