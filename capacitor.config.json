@@ -1,0 +1,6 @@
+{
+  "appId": "com.godmode.omni",
+  "appName": "Omni App",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
